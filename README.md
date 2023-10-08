@@ -6,7 +6,7 @@ NCSR Demokritos, University of Piraeus
 
 ## Table of Contents
 
--[Brief Description](#BriefDescription)
+- [Brief Description](#BriefDescription)
 
 ## Brief Description 
 
