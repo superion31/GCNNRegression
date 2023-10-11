@@ -8,8 +8,4 @@ NCSR Demokritos, University of Piraeus
 
 - [Brief Description](#BriefDescription)
 
-## Brief Description 
-
-Test
-
 
